@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "artemis.consumer-window-size",
+  "type": "java.lang.Integer",
+  "description": "Informe a quantidade de mensagens que o serviço poderá receber de uma só vez pelo Artemis. Informe zero para receber apenas uma mensagem por vez. Esse parâmetro é muito importante para consumidores lentos, os quais não devem receber várias mensagens de uma só vez do Artemis, para não sobrecarregar o serviço que não conseguirá processar várias mensagens em paralelo.'"
+}]}
