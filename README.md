@@ -1,2 +1,2 @@
 # artemis-spring-boot-starter
-Starter do Artemis para o Spring Boot
+Starter do Spring Boot para acessar o ActiveMQ Artemis
